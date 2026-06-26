@@ -23,7 +23,7 @@ let isLogginIn = true
 // object 
 console.log(typeof name) 
 
-console.log(typeof null)
+console.log(typeof null) // type is object
 
-console.log(typeof undefined)
+console.log(typeof undefined) // type is undefined
 
